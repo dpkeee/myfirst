@@ -1,0 +1,21 @@
+may 30
+ml for tensor flow
+
+
+https://doc-08-4o-apps-viewer.googleusercontent.com/viewer/secure/pdf/acpc857nioajuofonj6jn41bh423jnjm/n0vckc73av86ks9v1qjnfmv9qmts42gd/1643727000000/drive/15422464752690416704/ACFrOgBl0HoSvMP3iNLEWsKJeQzsFYiiYYMTu9tLUEFR6ulTXJxUwb1FWapiJ8lGQU1TDqWT7j10J4KyVjuFU23IhiGftY97_sa4aGI9bzMzEUW7WNXCrHgFE_simNBHTnPWazx6aZSWnTSM0dXZ?print=true&nonce=6fukt4blohl96&user=15422464752690416704&hash=0sehsrsqqbmva05lfaf3qijgeiarmo0o
+
+
+https://github.com/Asabeneh/30-Days-Of-Python/blob/master/12_Day_Modules/12_modules.md
+
+https://drive.google.com/drive/folders/15H_ysoINuHbRV1VDuEN2eTcXRoFhNXYr
+*************************************************
+
+https://albumentations.ai/docs/examples/pytorch_classification/
+https://canvas.instructure.com/courses/2734471
+https://omdena.com/chapters/
+https://omdena.com/omdena-chapter-page-iraq/
+https://github.com/OmdenaAI/iraq-chapter-desertification-detection/blob/main/src/tasks/task-4-Time-Series-Analysis/NDVI_forecasting.ipynb
+https://mohammed-taie-iraq-desertification-app-z40u5a.streamlitapp.com/?radio=Home
+https://omdena.com/omdena-chapter-page-silicon-valley/
+https://faridawrites.hashnode.dev/10-minutes-to-data-analysis-in-python-for-machine-learning
+https://www.google.com/search?q=data+analysis+projects&source=hp&ei=fZnyYoO5B4uekPIP6uGQmAo&iflsig=AJiK0e8AAAAAYvKnjeDX1JEvarvmbLajTV29xThQQXc8&ved=0ahUKEwjD67W0pLr5AhULD0QIHeowBKMQ4dUDCAk&uact=5&oq=data+analysis+projects&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOggILhCxAxCDAToOCC4QgAQQsQMQxwEQ0QM6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDOgUILhCABDoICAAQgAQQsQM6CwguEIAEELEDEIMBOgsILhCABBCxAxDUAjoOCAAQgAQQsQMQgwEQyQM6BQgAEJIDOhAIABCABBCxAxCDARDJAxAKUABY0DhgpTtoAHAAeACAAdcBiAHBDZIBBjE4LjMuMZgBAKABAQ&sclient=gws-wiz
